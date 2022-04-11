@@ -1,5 +1,5 @@
 # Ametsafarm v1
-Basic autofarm in all version for Growtopia with no stealer
+Basic autofarm in all version for Growtopia
 
 # About Windows Antivirus
 Only windows antivirus gives a warning about this program. The program using your "a,d and backspace" keys with automaticly.
